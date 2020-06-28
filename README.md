@@ -1,2 +1,1 @@
-# git-github
-This is car rental applicatio made using Lightning web component framework.
+This is car rental application made using Lightning web component framework.
